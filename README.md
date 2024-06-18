@@ -5,6 +5,6 @@
 
 ### Table of Contents
 
-- [Overview and preliminary concepts]
+- [Overview and preliminary concepts](week1/README.md)
 
-- [Linear Regression]
+- [Linear Regression](week2/README.md)
